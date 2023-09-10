@@ -10,7 +10,8 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 const App = () => {
   return (
-    <Router>
+    // Notice the basename prop added below
+    <Router basename="/Cadence">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Landing />} />
