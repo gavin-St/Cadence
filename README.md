@@ -4,6 +4,8 @@ Demo:
 
 Devpost: https://devpost.com/software/cadence-s7i9pl
 
+[https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/484/311/datas/original.png](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/485/082/datas/original.gif)
+
 Ever faced copyright strikes for including just a few seconds of Taylor Swift's music in your totally viral school video project? Did you find the perfect Joji song for your transition, but can't possibly buy the rights to use the song without millions of dollars and a legal team? Cadence transcends these boundaries to our content creativity. We want to incentivize both musicians and content creators to work together, in order to bring purchasable high quality music to the ears of millions. Our program enables creators to purchase a music key, which allows you to use a specific piece of music for one video or similar project. This token system is akin to renting the music per unit, without overpaying for an absurd licence. PLUS, the profits go directly to the music artist instead of any middleman like Spotify or Youtube -- the artist agrees to the rate, and the blockchain guarantees this return. Welcome to Cadence, the decentralized music buying and selling platform.
 
 # What it does
