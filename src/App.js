@@ -6,12 +6,12 @@ import UploadPage from "./pages/upload/UploadPage";
 import Feed from "./pages/feed/Feed";
 import Account from "./pages/account/Account";
 
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 
 const App = () => {
   return (
     // Notice the basename prop added below
-    <Router basename="/Cadence">
+    <Router>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Landing />} />
