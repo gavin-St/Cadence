@@ -1,4 +1,6 @@
 import React from "react";
+import { initNear } from '../services/near';
+import { initEthereum } from '../services/ethereum';
 
 import Layout from "./pages/Layout";
 import Landing from "./pages/landing/Landing";
