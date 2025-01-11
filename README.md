@@ -1,6 +1,6 @@
 # Cadence
 
-From EthGlobal
+Made at EthGlobal
 
 Demo: https://gavin-st.github.io/Cadence/
 
