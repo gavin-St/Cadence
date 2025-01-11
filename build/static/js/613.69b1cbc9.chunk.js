@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcadence2=self.webpackChunkcadence2||[]).push([[613],{613:function(e,a,c){e.exports=c.p+"static/media/song3.f9d62d40ad81921aa0d9.png"}}]);
