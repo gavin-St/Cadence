@@ -5,6 +5,9 @@ on:
     branches:
       - main  # or 'master' if your default branch is still named 'master'
 
+permissions:
+  contents: write  # Grant write access to contents (including pushing to the repository)
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
