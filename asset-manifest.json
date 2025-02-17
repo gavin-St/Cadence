@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cadence/static/css/main.980e1358.css",
-    "main.js": "/Cadence/static/js/main.e7ce3d3f.js",
+    "main.css": "/Cadence/static/css/main.4f4213ca.css",
+    "main.js": "/Cadence/static/js/main.ceec865b.js",
     "static/js/441.2965ae8b.chunk.js": "/Cadence/static/js/441.2965ae8b.chunk.js",
     "static/js/271.8500f424.chunk.js": "/Cadence/static/js/271.8500f424.chunk.js",
     "static/js/613.69b1cbc9.chunk.js": "/Cadence/static/js/613.69b1cbc9.chunk.js",
@@ -38,11 +38,11 @@
     "static/media/GoodTimes Lt.ttf": "/Cadence/static/media/GoodTimes Lt.cead962bd565cc378981.ttf",
     "static/media/GoodTime.otf": "/Cadence/static/media/GoodTime.a86d4f7f5cdb8cf2e409.otf",
     "index.html": "/Cadence/index.html",
-    "main.980e1358.css.map": "/Cadence/static/css/main.980e1358.css.map",
-    "main.e7ce3d3f.js.map": "/Cadence/static/js/main.e7ce3d3f.js.map"
+    "main.4f4213ca.css.map": "/Cadence/static/css/main.4f4213ca.css.map",
+    "main.ceec865b.js.map": "/Cadence/static/js/main.ceec865b.js.map"
   },
   "entrypoints": [
-    "static/css/main.980e1358.css",
-    "static/js/main.e7ce3d3f.js"
+    "static/css/main.4f4213ca.css",
+    "static/js/main.ceec865b.js"
   ]
 }
