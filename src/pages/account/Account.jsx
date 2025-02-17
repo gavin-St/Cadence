@@ -49,6 +49,7 @@ const Account = () => {
         ))}
       </div>
       
+      <img src={carl2} className='account-bg2'/>
     </div>
   )
 }

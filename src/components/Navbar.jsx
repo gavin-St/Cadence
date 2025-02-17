@@ -29,7 +29,7 @@ const Navbar = () => {
     <nav className={scrolled ? "primary-scrolled" : "primary"}>
       <Link to="/" className="logo"><div className='flex'>
         <p>CADENCE</p>
-        <p className='credits'>A project by Gavin, Rebbi, Stanley, Kelly</p>
+        <p className='credits'>A project by Gavin</p>
       </div></Link>
 
       <button

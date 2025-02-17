@@ -104,8 +104,13 @@ const Feed = () => {
               />
           ))}  
         </div>
+
+        <button className='more-button'>
+          VIEW MORE
+        </button>
+        <img src={rotate} className='feed-bg2'/>
       </div>
-      <img src={rotate} className='feed-bg2'/>
+      
     </div>
   )
 }

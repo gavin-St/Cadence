@@ -50,33 +50,33 @@ const UploadForm = () => {
 
   return (
     <div className="upload-form">
-      <div className='lil-thang'>
+      <div className='upload-music'>
+        {/* mp3 file */}
+        <input
+            ref={fileInputRef}
+            type="file"
+            accept="audio/mpeg"
+            className='hide'
+            onChange={handleFileInputChange}
+          />
+          <button 
+            className='mp3-button'
+            onClick={() => fileInputRef.current.click()}>
+              Upload Music
+            
+          </button>
 
-      {/* mp3 file */}
-      <input
-          ref={fileInputRef}
-          type="file"
-          accept="audio/mpeg"
-          className='hide'
-          onChange={handleFileInputChange}
-        />
-        <button 
-          className='mp3-button'
-          onClick={() => fileInputRef.current.click()}>
-            Upload Music
-        </button>
-
-        {selectedFile && (
-          <p className='file-name'>
-            {selectedFile.name}
-          </p>
-        )}
+          {selectedFile && (
+            <p className='file-name'>
+              {selectedFile.name}
+            </p>
+          )}
       </div>
 
       {/* thumbnail */}
       {thumbnail && (
           <div>
-            <img src={thumbnail} alt="Thumbnail" className='stanley'/>
+            <img src={thumbnail} alt="Thumbnail" className='thumbnail'/>
           </div>
         )}
         <div>

@@ -11,14 +11,16 @@ const UploadPage = () => {
       <div className='heading-upload'>
         <h1>UPLOAD YOUR MUSIC</h1>
         <p>UPLOAD YOUR MUSIC BELOW AND SHOW OFF YOUR AWESOME WORK. EARN WHAT YOU DESERVE!</p> 
+      </div>
+      <div className='upload-form'>
         <UploadForm />
-
       </div>
+      
       <div className='video-container'>
-        <video autoPlay loop muted className='video-ending'>
-            <source src={swirly} type='video/mp4' />
-        </video>
-      </div>
+          <video autoPlay loop muted className='video-ending'>
+              <source src={swirly} type='video/mp4' />
+          </video>
+        </div>
     </div>
   )
 }
