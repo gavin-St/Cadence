@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Cadence/static/css/main.4f4213ca.css",
-    "main.js": "/Cadence/static/js/main.894cb5e7.js",
+    "main.css": "/Cadence/static/css/main.e0fd7c21.css",
+    "main.js": "/Cadence/static/js/main.c4a47e09.js",
     "static/js/441.2965ae8b.chunk.js": "/Cadence/static/js/441.2965ae8b.chunk.js",
     "static/js/271.8500f424.chunk.js": "/Cadence/static/js/271.8500f424.chunk.js",
     "static/js/613.69b1cbc9.chunk.js": "/Cadence/static/js/613.69b1cbc9.chunk.js",
@@ -35,14 +35,15 @@
     "static/media/song7.png": "/Cadence/static/media/song7.e922a51b2950d5ec0f8e.png",
     "static/media/KoraTaki Regular.ttf": "/Cadence/static/media/KoraTaki Regular.e13b3d3c2a2a38b012fe.ttf",
     "static/media/song2.png": "/Cadence/static/media/song2.730fb397de35da11ca24.png",
+    "static/media/github-icon.png": "/Cadence/static/media/github-icon.b59201ef2ff446316717.png",
     "static/media/GoodTimes Lt.ttf": "/Cadence/static/media/GoodTimes Lt.cead962bd565cc378981.ttf",
     "static/media/GoodTime.otf": "/Cadence/static/media/GoodTime.a86d4f7f5cdb8cf2e409.otf",
     "index.html": "/Cadence/index.html",
-    "main.4f4213ca.css.map": "/Cadence/static/css/main.4f4213ca.css.map",
-    "main.894cb5e7.js.map": "/Cadence/static/js/main.894cb5e7.js.map"
+    "main.e0fd7c21.css.map": "/Cadence/static/css/main.e0fd7c21.css.map",
+    "main.c4a47e09.js.map": "/Cadence/static/js/main.c4a47e09.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f4213ca.css",
-    "static/js/main.894cb5e7.js"
+    "static/css/main.e0fd7c21.css",
+    "static/js/main.c4a47e09.js"
   ]
 }
