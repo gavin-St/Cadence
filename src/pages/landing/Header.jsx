@@ -6,7 +6,7 @@ const Header = () => {
   const [typingText, setTypingText] = useState('');
 
   useEffect(() => {
-    const textToType = '1, 2, 3.';
+    const textToType = '1, 2, 3 !!';
     let currentIndex = 0;
 
     const typingInterval = setInterval(() => {
@@ -36,7 +36,7 @@ const Header = () => {
       <div className='heading-subcontainer'>
         <h1>MEET CADENCE</h1>
         <p>
-          Music for all your video PROJECT NEEDS. Powered by blockchain, SEAMLESS TO USE, and as
+          Music for all your video PROJECT NEEDS. Powered by blockchain, SEAMLESS TO USE, and as <br />
           easy as {typingText}
         </p>
       </div>
